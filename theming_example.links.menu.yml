@@ -1,0 +1,4 @@
+theming_example.description:
+  title: Theming Example
+  route_name: theming_example.page
+  expanded: TRUE

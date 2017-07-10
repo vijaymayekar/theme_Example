@@ -1,0 +1,5 @@
+name: Theming example
+type: module
+description: 'Demonstrates how to use theming.'
+package: Example modules
+core: 8.x

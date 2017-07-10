@@ -1,0 +1,6 @@
+theming_example.page:
+  path: 'examples/theming_example'
+  defaults:
+    _controller: '\Drupal\theming_example\Controller\ThemingExampleController::getContent'
+  requirements:
+    _permission: 'access content'
